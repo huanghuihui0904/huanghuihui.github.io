@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  # pubmed           : ""
+  # googlescholar    : ""
   email            :  "625173hhh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  # orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  CSDN             : "https://blog.csdn.net/weixin_50776857"
 
 
 # Reading Files
