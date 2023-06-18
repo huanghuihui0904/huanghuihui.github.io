@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            :  "625173hhh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  CSDN              :  "https://blog.csdn.net/weixin_50776857"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CSDN             : "https://blog.csdn.net/weixin_50776857"
+  # CSDN             : "https://blog.csdn.net/weixin_50776857"
 
 
 # Reading Files
