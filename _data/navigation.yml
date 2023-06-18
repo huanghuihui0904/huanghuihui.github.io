@@ -13,7 +13,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://blog.csdn.net/weixin_50776857
     
   - title: "CV"
     url: /files/CV.pdf
