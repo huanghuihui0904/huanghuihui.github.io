@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huihui Huang's Homepage"
+title                    : "Huihui's Homepage"
 title_separator          : "-"
 name                     : &name "Huihui Huang"
 description              : &description "Undergraduate student at SUSTech"
