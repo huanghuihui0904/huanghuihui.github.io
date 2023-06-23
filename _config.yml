@@ -11,9 +11,9 @@ title                    : "Huihui's Homepage"
 title_separator          : "-"
 name                     : &name "Huihui Huang"
 description              : &description "Undergraduate student at SUSTech"
-url                      : https://huanghuihui0904.github.io/huihuihuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huihuihuang.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huanghuihui0904/huihuihuang.github.io"
+repository               : "huanghuihui0904/huanghuihui0904.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/huanghuihui0904"
+  github           : "huanghuihui0904"
   google_plus      :
   keybase          :
   instagram        :
