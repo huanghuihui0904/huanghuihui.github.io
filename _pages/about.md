@@ -20,20 +20,20 @@ My research interests are mainly in **Software Engineering**. I am excited to im
 Working on it...
 
 ## Academic Experience
-- An Extensive Study on the Binary Diffing Problem **Feb. 2023 - Jun. 2023** 
+- **An Extensive Study on the Binary Diffing Problem** Feb. 2023 - Jun. 2023
   - [Presentation Report](https://huihuihuang.top/files/binary_diffing_report.pdf)
   - Keywords: Disassembly, NLP, Function Call Graph, Binary Similarity 
 
-- An Extensive Study on Large-scale Software Composition Analysis System **Sept. 2022 - Jan. 2023**
+- **An Extensive Study on Large-scale Software Composition Analysis System** Sept. 2022 - Jan. 2023
   - Keywords: SCA, Software Security, Semantic Extraction, Static Analysis
 
 ## Award
 
-- The Second Class Scholarship of the University (Top 10%) **Nov.2021 & Nov.2022**
-- Honorable Mention in Mathematical Contest in Modeling (Top 20%) **Feb.2023**
-- The Second prize in China Undergraduate Mathematical Contest in Modeling (Top 20%) **Sept.2022**
-- Bronze Award of Huawei Kunpeng Innovation Application Competition **Nov.2022**
-- Outstanding Student Leaders of the University **Sept.2022**
+- **The Second Class Scholarship of the University (Top 10%)** Nov.2021 & Nov.2022
+- **Honorable Mention in Mathematical Contest in Modeling (Top 20%)** Feb.2023
+- **The Second prize in China Undergraduate Mathematical Contest in Modeling (Top 20%)** Sept.2022
+- **Bronze Award of Huawei Kunpeng Innovation Application Competition** Nov.2022
+- **Outstanding Student Leaders of the University** Sept.2022
 
 
 ## Hobbies
