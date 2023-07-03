@@ -27,7 +27,13 @@ Working on it...
 - **An Extensive Study on Large-scale Software Composition Analysis System** Sept. 2022 - Jan. 2023
   - Keywords: SCA, Software Security, Semantic Extraction, Static Analysis
 
-## Award
+## Key Projects
+
+- **School forum website** [SUSTech Just-Say-It](https://sus-tech-say-it-frontend-pehx.vercel.app/)
+  - [Video Show](https://www.bilibili.com/video/BV1ts4y1k74Y/)
+  - Backend Techniques: Spring Boot, PostgreSQL, JMeter, Huawei Cloud, Docker Hub.
+
+## Honors
 
 - **The Second Class Scholarship of the University (Top 10%)** Nov.2021 & Nov.2022
 - **Honorable Mention in Mathematical Contest in Modeling (Top 20%)** Feb.2023
