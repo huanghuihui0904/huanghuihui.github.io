@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student from [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). I am also a member of ARiSE lab, supervised by [Prof. Yuqun Zhang]([Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html)) 
+Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student from [SUSTech](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html)
 
 My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **SCA** (Software Composition Analysis),**Binary Similarity Detection**, **Binary File Diffing Problem**, and would like to explore new topics related to them.
 
@@ -21,7 +21,7 @@ Working on it...
 
 ## Academic Experience
 An Extensive Study on the Binary Diffing Problem **Feb. 2023 - Jun. 2023** 
-- [Report]([Report](https://huihuihuang.top/files/binnary_diffing_report.pdf)) 
+- [Report](https://huihuihuang.top/files/binnary_diffing_report.pdf)
 
 ​- Keywords: Disassembly, NLP, Function Call Graph, Binary Similarity 
 
