@@ -12,11 +12,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "CSDN Blog"
     url: https://blog.csdn.net/weixin_50776857
     
   - title: "CV"
     url: /files/CV.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Transcript"
+    url: /files/Transcript.pdf
