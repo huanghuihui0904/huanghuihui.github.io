@@ -21,11 +21,12 @@ Working on it...
 
 ## Academic Experience
 - An Extensive Study on the Binary Diffing Problem **Feb. 2023 - Jun. 2023** 
-- - [Report](https://huihuihuang.top/files/binary_diffing_report.pdf)
-- - Keywords: Disassembly, NLP, Function Call Graph, Binary Similarity 
+  - [Presentation Report](https://huihuihuang.top/files/binary_diffing_report.pdf)
+  - Keywords: Disassembly, NLP, Function Call Graph, Binary Similarity 
 
 - An Extensive Study on Large-scale Software Composition Analysis System **Sept. 2022 - Jan. 2023**
-- - Keywords: SCA, Software Security, Semantic Extraction, Static Analysis
+  - Keywords: SCA, Software Security, Semantic Extraction, Static Analysis
+
 ## Award
 
 - The Second Class Scholarship of the University (Top 10%) **Nov.2021 & Nov.2022**
