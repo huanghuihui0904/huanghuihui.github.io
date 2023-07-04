@@ -37,11 +37,11 @@ Working on it...
 
 ## Honors
 
-- Honorable Mention in Mathematical Contest in Modeling (Top 20%) *Feb.2023*
-- The Second Class Scholarship of the University (Top 10%) *Nov.2021 & Nov.2022*
-- Bronze Award of Huawei Kunpeng Innovation Application Competition *Nov.2022*
-- The Second prize in China Undergraduate Mathematical Contest in Modeling (Top 20%) *Sept.2022*
-- Outstanding Student Leaders of the University *Sept.2022*
+- Honorable Mention in Mathematical Contest in Modeling **(Top 20%)** *-Feb.2023*
+- The Second Class Scholarship of the University **(Top 10%)** *-Nov.2021 & Nov.2022*
+- Bronze Award of Huawei Kunpeng Innovation Application Competition *-Nov.2022*
+- The Second prize in China Undergraduate Mathematical Contest in Modeling **(Top 20%)** *-Sept.2022*
+- Outstanding Student Leaders of the University *-Sept.2022*
 
 
 ## Hobbies
