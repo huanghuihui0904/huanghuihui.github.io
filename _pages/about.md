@@ -15,6 +15,7 @@ Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](htt
 
 My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **SCA** (Software Composition Analysis),**Binary Similarity Detection**, **Binary File Diffing Problem**, and would like to explore new topics related to them.
 
+During 2023 fall, I will attent the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and study on **Programming Languages**, advised by [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
 ## Publication
 
 Working on it...
