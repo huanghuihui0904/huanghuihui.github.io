@@ -21,18 +21,18 @@ During 2023 fall, I will attend the [NGNE research program](https://www.nus.edu.
 Working on it...
 
 ## Academic Experience
-- **An Extensive Study on the Binary Diffing Problem** Feb. 2023 - Jun. 2023
+- **An Extensive Study on the Binary Diffing Problem** *Feb. 2023 - Jun. 2023*
   - [Presentation Report](https://huihuihuang.top/files/binary_diffing_report.pdf)
-  - Keywords: Disassembly, NLP, Function Call Graph, Binary Similarity 
+  - *Keywords*: Disassembly, NLP, Function Call Graph, Binary Similarity 
 
-- **An Extensive Study on Large-scale Software Composition Analysis System** Sept. 2022 - Jan. 2023
-  - Keywords: SCA, Software Security, Semantic Extraction, Static Analysis
+- **An Extensive Study on Large-scale Software Composition Analysis System** *Sept. 2022 - Jan. 2023*
+  - *Keywords*: SCA, Software Security, Semantic Extraction, Static Analysis
 
 ## Key Projects
 
 - **School forum website** [SUSTech Just-Say-It](https://sus-tech-say-it-frontend-pehx.vercel.app/)
   - [Video Show](https://www.bilibili.com/video/BV1ts4y1k74Y/)
-  - Backend Techniques: Spring Boot, PostgreSQL, JMeter, Huawei Cloud, Docker Hub.
+  - *Backend Techniques*: Spring Boot, PostgreSQL, JMeter, Huawei Cloud, Docker Hub.
 
 ## Honors
 
