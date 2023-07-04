@@ -15,7 +15,7 @@ Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](htt
 
 My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **SCA** (Software Composition Analysis),**Binary Similarity Detection**, **Binary File Diffing Problem**, and would like to explore new topics related to them.
 
-During 2023 fall, I will attent the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and study on **Programming Languages**, advised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
+During 2023 fall, I will attend the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and research on **Programming Languages**, advised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
 ## Publication
 
 Working on it...
@@ -36,11 +36,11 @@ Working on it...
 
 ## Honors
 
-- **The Second Class Scholarship of the University (Top 10%)** Nov.2021 & Nov.2022
-- **Honorable Mention in Mathematical Contest in Modeling (Top 20%)** Feb.2023
-- **The Second prize in China Undergraduate Mathematical Contest in Modeling (Top 20%)** Sept.2022
-- **Bronze Award of Huawei Kunpeng Innovation Application Competition** Nov.2022
-- **Outstanding Student Leaders of the University** Sept.2022
+- Honorable Mention in Mathematical Contest in Modeling (Top 20%) *Feb.2023*
+- The Second Class Scholarship of the University (Top 10%) *Nov.2021 & Nov.2022*
+- Bronze Award of Huawei Kunpeng Innovation Application Competition *Nov.2022*
+- The Second prize in China Undergraduate Mathematical Contest in Modeling (Top 20%) *Sept.2022*
+- Outstanding Student Leaders of the University *Sept.2022*
 
 
 ## Hobbies
