@@ -13,9 +13,10 @@ redirect_from:
 
 Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html)
 
-My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **SCA** (Software Composition Analysis),**Binary Similarity Detection**, **Binary File Diffing Problem**, and would like to explore new topics related to them.
+My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently, I have been exposed to research areas about **SCA** (Software Composition Analysis), **Binary Similarity Detection**, **Binary File Diffing Problems**, and would like to explore new topics related to them.
 
-During 2023 fall, I will attend the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and research on **Programming Languages**, advised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
+During 2023 fall, I will attend the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and research on **Programming Languages**, supervised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
+
 ## Publication
 
 Working on it...
