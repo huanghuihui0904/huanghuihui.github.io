@@ -28,7 +28,7 @@ My research interests are mainly in **Software Engineering** and **Programming L
 - **Translating Concurrent C Programs to Safe Rust** *Aug. 2023- Present*
   - *Keywords*: Rust, C, Automatic Translation, Concurrent Program, Memory-Safety
 
-- **AnExtensive Study on Software Composition Analysis (SCA)** *Sept. 2022- Aug. 2023*
+- **An Extensive Study on Software Composition Analysis (SCA)** *Sept. 2022- Aug. 2023*
   - *Keywords*: Binary-to-Source SCA, Software Security, AI4SE, Semantic Extraction
 
 - **Binary Code Diffing via Network Alignment** *Feb. 2023 - Jun. 2023*
