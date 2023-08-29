@@ -12,9 +12,9 @@ redirect_from:
 
 ## About
 
-Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html)
+Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html)
 
-Currently I am a research intern in [NUS](https://www.nus.edu.sg/) as a member of PLSE lab and research on **Programming Languages**, supervised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
+Currently I am a research intern in [NUS](https://www.nus.edu.sg/) as a member of PLSE lab and research on **Programming Languages**, supervised by Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
 My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them.
 
