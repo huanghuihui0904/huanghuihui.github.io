@@ -8,29 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-*Updated on 4 Jul. 2023*
+*Updated on 29 Aug. 2023*
 
 ## About
 
 Hi, I am **Huihui Huang** (黄慧惠), an undergraduate student at [SUSTech](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html)
 
-My research interests are mainly in **Software Engineering**. I am excited to improve software systems’ reliability and scalability. Currently, I have been exposed to research areas about **SCA** (Software Composition Analysis), **Binary Similarity Detection**, **Binary File Diffing Problems**, and would like to explore new topics related to them.
+Currently I am a research intern in [NUS](https://www.nus.edu.sg/) as a member of PLSE lab and research on **Programming Languages**, supervised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
-During 2023 fall, I will attend the [NGNE research program](https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) in [NUS](https://www.nus.edu.sg/) and research on **Programming Languages**, supervised by [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/)
+My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them.
+
+
 
 ## Publication
 
-Working on it...
+ [**ICSE’2024**] Ling Jiang, Junwen An, **Huihui Huang**, Qiyi Tang, Sen Nie, Shi Wu, and Yuqun Zhang. “BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching." *Proceedings of the 46th International Conference on Software Engineering*. ***Status: Under Review***
 
 ## Academic Experience
-- **An Extensive Study on the Binary Diffing Problem** *Feb. 2023 - Jun. 2023*
+- **Translating Concurrent C Programs to Safe Rust** *Aug. 2023- Present*
+  - *Keywords*: Rust, C, Automatic Translation, Concurrent Program, Memory-Safety
+
+- **AnExtensive Study on Software Composition Analysis (SCA)** *Sept. 2022- Aug. 2023*
+  - *Keywords*: Binary-to-Source SCA, Software Security, AI4SE, Semantic Extraction
+
+- **Binary Code Diffing via Network Alignment** *Feb. 2023 - Jun. 2023*
   - [Presentation Report](https://huihuihuang.top/files/binary_diffing_report.pdf)
-  - *Keywords*: Disassembly, NLP, Function Call Graph, Binary Similarity 
+  - *Keywords*: Binary Similarity Detection, Network Alignment, AI4SE, Disassembly
 
-- **An Extensive Study on Large-scale Software Composition Analysis System** *Sept. 2022 - Jan. 2023*
-  - *Keywords*: SCA, Software Security, Semantic Extraction, Static Analysis
 
-## Key Projects
+## Selected Projects
 
 - **School forum website** [SUSTech Just-Say-It](https://sus-tech-say-it-frontend-pehx.vercel.app/)
   - [Video Show](https://www.bilibili.com/video/BV1ts4y1k74Y/)
@@ -39,10 +45,10 @@ Working on it...
 ## Honors
 
 - Honorable Mention in Mathematical Contest in Modeling **(Top 20%)** *-Feb.2023*
-- The Second Class Scholarship of the University **(Top 10%)** *-Nov.2021 & Nov.2022*
+- The Second Class Scholarship of the University **(Top 15%)** *-Nov.2021 & Nov.2022*
 - Bronze Award of Huawei Kunpeng Innovation Application Competition *-Nov.2022*
 - The Second prize in China Undergraduate Mathematical Contest in Modeling **(Top 20%)** *-Sept.2022*
-- Outstanding Student Leaders of the University *-Sept.2022*
+- Outstanding Student Leaders of the University **(Top 5%)** *-Sept.2022*
 
 
 ## Hobbies
