@@ -22,7 +22,7 @@ My research interests are mainly in **Software Engineering** and **Programming L
 
 ## Publication
 
- [**ICSE’2024**] Ling Jiang, Junwen An, **Huihui Huang**, Qiyi Tang, Sen Nie, Shi Wu, and Yuqun Zhang. “BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching." *Proceedings of the 46th International Conference on Software Engineering*. ***Status: Accept***
+ [**ICSE’2024**] Ling Jiang, Junwen An, **Huihui Huang**, Qiyi Tang, Sen Nie, Shi Wu, and Yuqun Zhang. “BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching." *Proceedings of the 46th International Conference on Software Engineering*. ***Status: Accept （65/808）***
 
 ## Academic Experience
 - **Translating Concurrent C Programs to Safe Rust** *Aug. 2023- Present*
