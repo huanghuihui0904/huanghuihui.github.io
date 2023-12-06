@@ -20,9 +20,9 @@ My research interests are mainly in **Software Engineering** and **Programming L
 
 ## Research Interests
 
-AI for SE, Security
-Software Composition Analysis
-Reverse Engineering
+- AI for SE, Security
+- Software Composition Analysis
+- Reverse Engineering
 
 ## Publication
 
@@ -45,6 +45,11 @@ Reverse Engineering
 - **School forum website** [SUSTech Just-Say-It](https://sus-tech-say-it-frontend-pehx.vercel.app/)
   - [Video Show](https://www.bilibili.com/video/BV1ts4y1k74Y/)
   - *Backend Techniques*: Spring Boot, PostgreSQL, JMeter, Huawei Cloud, Docker Hub.
+ 
+## Education
+
+- Sep. 2020 - Jun. 2024(exp.)    B.Eng. in Computer Science and Technology, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
+- Aug. 2023 - Dec. 2023    Research Intern in Computer Science and Technology, [National University of Singapore](https://www.nus.edu.sg/)
 
 ## Honors
 
