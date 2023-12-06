@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Updated on 29 Aug. 2023*
+*Updated on 6 Dec. 2023*
 
 ## About
 
