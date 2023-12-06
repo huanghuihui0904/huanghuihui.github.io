@@ -18,7 +18,11 @@ Currently I am a research intern in [NUS](https://www.nus.edu.sg/) as a member o
 
 My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them.
 
+## Research Interests
 
+AI for SE, Security
+Software Composition Analysis
+Reverse Engineering
 
 ## Publication
 
