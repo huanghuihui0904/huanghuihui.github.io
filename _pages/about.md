@@ -48,6 +48,7 @@ My research interests are mainly in **Software Engineering** and **Programming L
  
 - **SQLite2openGauss** 
   - [Presentation Report](https://huihuihuang.top/files/SQLite2openGauss.pdf)
+  - [Open-source Repository](https://github.com/SnowCharmQ/SQLite2openGauss)
   - *Related Techniques*: openGauss, SQLite, Huawei Cloud.
   - Won Bronze Award of Huawei Kunpeng Innovation Application Competition *-Nov.2022*
  
