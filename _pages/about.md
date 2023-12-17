@@ -46,6 +46,11 @@ My research interests are mainly in **Software Engineering** and **Programming L
   - [Video Show](https://www.bilibili.com/video/BV1ts4y1k74Y/)
   - *Backend Techniques*: Spring Boot, PostgreSQL, JMeter, Huawei Cloud, Docker Hub.
  
+- **SQLite2openGauss** 
+  - [Presentation Report](https://huihuihuang.top/files/SQLite2openGauss.pdf)
+  - *Related Techniques*: openGauss, SQLite, Huawei Cloud.
+  - Won Bronze Award of Huawei Kunpeng Innovation Application Competition *-Nov.2022*
+ 
 ## Education
 
 - Sep. 2020 - Jun. 2024(exp.)    B.Eng. in Computer Science and Technology, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
